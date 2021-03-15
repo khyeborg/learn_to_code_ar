@@ -5,7 +5,7 @@
         <script src="https://aframe.io/releases/1.0.4/aframe.min.js"></script>
 
         <!-- ARToolKit for A-Frame VR Library -->
-        <script src='../../libraries/aframe-ar.js'></script>
+        <script src='libraries/aframe-ar.js'></script>
 
         <!-- P5 libraries -->
         <script src="https://cdn.jsdelivr.net/npm/p5@1.1.9/lib/p5.js"></script>
@@ -19,7 +19,7 @@
     <!-- the standard p5 sound library
          note: this library will fail if not loaded over
          a secure connection (https) or on your localhost) -->
-    <script src="../../p5/addons/p5.sound.min.js"></script>
+    <script src="p5/addons/p5.sound.min.js"></script>
 
     <!-- your custom sketch file -->
     <script src="sketch.js"></script>
